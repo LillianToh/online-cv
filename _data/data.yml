@@ -79,33 +79,6 @@ education:
           - Bullet point
           - Bullet point
 
-projects:
-    title: Projects
-    # intro: >
-    #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Avenue
-        link: "#hook"
-        tagline: "A unified platform to help property managers oversee large scale developments. React framework."
-
-      - title: My School Admin
-        link: "#"
-        tagline: "Created a feature extension for a full stack app to ease administrative workload on school teachers. Vue framework."
-
-      - title: Do It
-        link: "#"
-        tagline: "A to do list app to organise important tasks for work and life. Built on React and Vue."
-
-      # - title: Atom
-      #   link: "#"
-      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      # - title: Delta
-      #   link: "#"
-      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -144,32 +117,25 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+projects:
+    title: Projects
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Avenue
+        link: "#hook"
+        tagline: "A unified platform to help property managers oversee large scale developments. React framework."
 
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: My School Admin
+        link: "#"
+        tagline: "Created a feature extension for a full stack app to ease administrative workload on school teachers. Vue framework."
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Do It
+        link: "#"
+        tagline: "A to do list app to organise important tasks for work and life. Built on React and Vue."
 
 # publications:
 #     title: Publications
