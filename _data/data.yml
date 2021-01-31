@@ -78,41 +78,27 @@ education:
 experiences:
     - role: Property Analyst
       time: 2018 - 2019
-      company: Cushman &amp Wakefield, Wespac Bank, Sydney
+      company: Cushman &amp Wakefield | Westpac Bank, Sydney
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        On secondment with Westpac Bank.
+          - Managed cross-functional teams of 25 members as a primary liaison between the client and external stakeholders to ensure leasing activities align with the retail footprint strategy.
+          - Conducted detailed market assessment of commercial real estates in Australia identifying strategic leasing opportunities to drive 8% aggregate savings across the client’s portfolio.
+          - Designed and implemented workflow automation using SQL and VBA reducing the reporting time by 87%.
     - role: Contract Executive
       time: 2017 - 2018
       company: Eco World International, Melbourne
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Describe your role here.
+          - Led multiple workshops to the entire sales team as part of the organizational change management plan to adopt customer relationship management (CRM) tools in their business process.
+          - Implemented CRM software within 3 months to streamline data collection, analyse customer trends, and execute targeted marketing campaign specific to each customer segmentation.
+          - Created new standard operating procedure on the property development lifecycle from initiation, completion, and handover of 256 residential properties.
     - role: Consultant
       time: 2016 - 2017
       company: Darlo, Melbourne
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Describe your role here.
+          - Advised on the feasibility of introducing new curriculum to 8 universities using cost-benefit analysis.
+          - Built discounted cash flow models to estimate future cash flows from investing and divesting tangible assets as a result of establishing and ceasing tertiary courses.
 
 projects:
     title: Projects
@@ -163,7 +149,7 @@ skills:
         level: 90%
 
       - name: React
-        level: 80%
+        level: 90%
 
       - name: Vue
         level: 70%
@@ -172,7 +158,7 @@ skills:
         level: 90%
 
       - name: MySQL
-        level: 98%
+        level: 80%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
