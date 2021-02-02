@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -107,15 +107,15 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Avenue
-        link: "#hook"
+        link: "https://c3133edc42a1.ngrok.io/"
         tagline: "A unified platform to help property managers oversee large scale developments. Built with React."
 
       - title: My School Admin
-        link: "#"
+        # link: "#"
         tagline: "Created a feature extension for a full stack app to ease administrative workload on school teachers. Built with Vue."
 
       - title: Do It
-        link: "#"
+        # link: "#"
         tagline: "A to do list app to organise important tasks for work and life. Built with both React and Vue."
 
 # publications:
