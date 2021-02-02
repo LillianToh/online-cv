@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lillian Toh
-    tagline: Frontend Developer
+    tagline: Full-Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,26 +46,17 @@ sidebar:
     #     link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Passionate about using technology and data to solve business challenges. 
+      Achieved first place in two Westpac Hackathons. 
+      Currently undertaking a Full Stack Development Course
+      to build full fledged applications.
+
 education:
-    - degree: Bachelor of Commerce
-      university: University of Melbourne
-      time: 2012 - 2015
-      details: |
-        Majors
-          - Finance
-          - Accounting
-          - Management
     - degree: Full-Stack Development
       university: CodeOp TechSprint
-      time: 2020 - 2021
+      time: 2020 - Current
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,13 +65,21 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: Bachelor of Commerce
+      university: University of Melbourne
+      time: 2012 - 2015
+      details: |
+        Majors
+          - Finance
+          - Accounting
+          - Management
 
 experiences:
     - role: Property Analyst
       time: 2018 - 2019
       company: Cushman &amp Wakefield | Westpac Bank, Sydney
       details: |
-        On secondment with Westpac Bank.
+        On secondment with Westpac Bank, Australia’s oldest financial institution.
           - Managed cross-functional teams of 25 members as a primary liaison between the client and external stakeholders to ensure leasing activities align with the retail footprint strategy.
           - Conducted detailed market assessment of commercial real estates in Australia identifying strategic leasing opportunities to drive 8% aggregate savings across the client’s portfolio.
           - Designed and implemented workflow automation using SQL and VBA reducing the reporting time by 87%.
@@ -88,7 +87,7 @@ experiences:
       time: 2017 - 2018
       company: Eco World International, Melbourne
       details: |
-        Describe your role here.
+        Residential property developer with projects in UK and AU.
           - Led multiple workshops to the entire sales team as part of the organizational change management plan to adopt customer relationship management (CRM) tools in their business process.
           - Implemented CRM software within 3 months to streamline data collection, analyse customer trends, and execute targeted marketing campaign specific to each customer segmentation.
           - Created new standard operating procedure on the property development lifecycle from initiation, completion, and handover of 256 residential properties.
@@ -96,7 +95,7 @@ experiences:
       time: 2016 - 2017
       company: Darlo, Melbourne
       details: |
-        Describe your role here.
+        Consulting firm specializing in tertiary education and training reform in NZ and AU.
           - Advised on the feasibility of introducing new curriculum to 8 universities using cost-benefit analysis.
           - Built discounted cash flow models to estimate future cash flows from investing and divesting tangible assets as a result of establishing and ceasing tertiary courses.
 
@@ -154,8 +153,11 @@ skills:
       - name: Vue
         level: 70%
 
-      - name: HTML5 & CSS
+      - name: HTML, CSS & Bootstrap
         level: 90%
+
+      - name: Node & Express
+        level: 80%
 
       - name: MySQL
         level: 80%
