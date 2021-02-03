@@ -115,15 +115,15 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Avenue
-        link: "https://a0fb1f5c1296.ngrok.io"
+        link: "https://github.com/LillianToh/avenue"
         tagline: "A unified platform to help property managers oversee large scale developments. Built with React."
 
       - title: My School Admin
-        # link: "#"
+        link: "https://github.com/LillianToh/myschooladmin-vue"
         tagline: "Created a feature extension for a full stack app to ease administrative workload on school teachers. Built with Vue."
 
       - title: Do It
-        # link: "#"
+        link: "https://github.com/LillianToh/todo1.0-vue-react"
         tagline: "A to do list app to organise important tasks for work and life. Built with both React and Vue."
 
 # publications:
