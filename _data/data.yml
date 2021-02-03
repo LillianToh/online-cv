@@ -75,6 +75,14 @@ education:
           - Management
 
 experiences:
+    - role: Client Relationship Manager
+      time: 2020 - Current
+      company: Johns & Co, Malaysia
+      details: |
+        London estate agency specialised in lettings, sales and new homes market.
+          - Appointed to lead and set up new office in Malaysia to strengthen international presence in Asia.
+          - Develop a business development strategy to grow Malaysia client base by 50% to achieve annual revenue target of £218k.
+          - Forge partnerships with property developers and local agencies to build long-term relationships with existing and new clients.
     - role: Property Analyst
       time: 2018 - 2019
       company: Cushman &amp Wakefield | Westpac Bank, Sydney
@@ -107,7 +115,7 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Avenue
-        link: "https://c3133edc42a1.ngrok.io/"
+        link: "https://30c12fc8a282.ngrok.io"
         tagline: "A unified platform to help property managers oversee large scale developments. Built with React."
 
       - title: My School Admin
