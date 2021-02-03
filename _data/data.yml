@@ -115,7 +115,7 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Avenue
-        link: "http://a0fb1f5c1296.ngrok.io"
+        link: "https://a0fb1f5c1296.ngrok.io"
         tagline: "A unified platform to help property managers oversee large scale developments. Built with React."
 
       - title: My School Admin
