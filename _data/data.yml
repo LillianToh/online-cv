@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: lillian.kimleng@gmail.com
     phone: (+61) 423 700 690
-    website:
+    website: 
     linkedin: lillian-toh
     github: LillianToh
     telegram: # add your nickname without '@' sign
@@ -22,7 +22,7 @@ sidebar:
     bitbucket:
     twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    medium:	https://medium.com/@lilliantoh
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
