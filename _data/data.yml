@@ -144,39 +144,39 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-publications:
-  title: Experiences
-    - role: Client Relationship Manager
-      time: 2020 - Current
-      company: Johns & Co, Malaysia
-      details: |
-        London estate agency specialised in property management, lettings and sales in UK.
-          - Appointed to lead and set up new office in Malaysia to strengthen international presence in Asia.
-          - Develop a business development strategy to grow Malaysia client base by 50% to achieve annual revenue target of £200k.
-          - Forge partnerships with property developers and local agencies to build long-term relationships with existing and new clients.
-    - role: Property Analyst
-      time: 2018 - 2019
-      company: Cushman &amp Wakefield | Westpac Bank, Sydney
-      details: |
-        On secondment with Westpac Bank, Australia’s oldest financial institution.
-          - Managed cross-functional teams of 25 members as a primary liaison between the client and external stakeholders to ensure leasing activities align with the retail footprint strategy.
-          - Conducted detailed market assessment of commercial real estates in Australia identifying strategic leasing opportunities to drive 8% aggregate savings across the client’s portfolio.
-          - Designed and implemented workflow automation using SQL and VBA reducing the reporting time by 87%.
-    - role: Contract Executive
-      time: 2017 - 2018
-      company: Eco World International, Melbourne
-      details: |
-        Residential property developer with projects in UK and AU.
-          - Led multiple workshops to the entire sales team as part of the organizational change management plan to adopt customer relationship management (CRM) tools in their business process.
-          - Implemented CRM software within 3 months to streamline data collection, analyse customer trends, and execute targeted marketing campaign specific to each customer segmentation.
-          - Created new standard operating procedure on the property development lifecycle from initiation, completion, and handover of 256 residential properties.
-    - role: Consultant
-      time: 2016 - 2017
-      company: Darlo, Melbourne
-      details: |
-        Consulting firm specializing in tertiary education and training reform in NZ and AU.
-          - Advised on the feasibility of introducing new curriculum to 8 universities using cost-benefit analysis.
-          - Built discounted cash flow models to estimate future cash flows from investing and divesting tangible assets as a result of establishing and ceasing tertiary courses.
+# publications:
+#   title: Experiences
+#     - role: Client Relationship Manager
+#       time: 2020 - Current
+#       company: Johns & Co, Malaysia
+#       details: |
+#         London estate agency specialised in property management, lettings and sales in UK.
+#           - Appointed to lead and set up new office in Malaysia to strengthen international presence in Asia.
+#           - Develop a business development strategy to grow Malaysia client base by 50% to achieve annual revenue target of £200k.
+#           - Forge partnerships with property developers and local agencies to build long-term relationships with existing and new clients.
+#     - role: Property Analyst
+#       time: 2018 - 2019
+#       company: Cushman &amp Wakefield | Westpac Bank, Sydney
+#       details: |
+#         On secondment with Westpac Bank, Australia’s oldest financial institution.
+#           - Managed cross-functional teams of 25 members as a primary liaison between the client and external stakeholders to ensure leasing activities align with the retail footprint strategy.
+#           - Conducted detailed market assessment of commercial real estates in Australia identifying strategic leasing opportunities to drive 8% aggregate savings across the client’s portfolio.
+#           - Designed and implemented workflow automation using SQL and VBA reducing the reporting time by 87%.
+#     - role: Contract Executive
+#       time: 2017 - 2018
+#       company: Eco World International, Melbourne
+#       details: |
+#         Residential property developer with projects in UK and AU.
+#           - Led multiple workshops to the entire sales team as part of the organizational change management plan to adopt customer relationship management (CRM) tools in their business process.
+#           - Implemented CRM software within 3 months to streamline data collection, analyse customer trends, and execute targeted marketing campaign specific to each customer segmentation.
+#           - Created new standard operating procedure on the property development lifecycle from initiation, completion, and handover of 256 residential properties.
+#     - role: Consultant
+#       time: 2016 - 2017
+#       company: Darlo, Melbourne
+#       details: |
+#         Consulting firm specializing in tertiary education and training reform in NZ and AU.
+#           - Advised on the feasibility of introducing new curriculum to 8 universities using cost-benefit analysis.
+#           - Built discounted cash flow models to estimate future cash flows from investing and divesting tangible assets as a result of establishing and ceasing tertiary courses.
 
 skills:
     title: Skills &amp; Proficiency
