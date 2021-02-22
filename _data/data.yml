@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Passionate about using technology and data to solve business challenges. Achieved first place in two Westpac Hackathons. Currently undertaking a Full Stack Development Course to build full fledged applications.
+      Passionate about using technology and data to solve business challenges. Achieved first place in two Westpac Hackathons. Just completed a Full Stack Development Bootcamp. Currently utilising my skills in the New Relic Hack the Planet Contest.
 
 education:
     - degree: Full-Stack Development
@@ -112,7 +112,7 @@ projects:
     assignments:
       - title: Avenue
         link: "https://github.com/LillianToh/avenue"
-        tagline: "A unified platform to help property managers oversee large scale developments. Built with React."
+        tagline: "A unified platform to help property managers oversee large scale developments. Built with React. API integrations include Facebook, HelloSign and Leaflet"
 
       - title: My School Admin
         link: "https://github.com/LillianToh/myschooladmin-vue"
@@ -153,15 +153,6 @@ skills:
 
       - name: Jest & Enzyme
         level: 70%
-
-      - name: Facebook API
-        level: 90%
-
-      - name: Leaflet API
-        level: 90%
-
-      - name: HelloSign API
-        level: 90%
 
       - name: Javascript
         level: 90%
