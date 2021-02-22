@@ -122,33 +122,33 @@ projects:
         link: "https://github.com/LillianToh/todo1.0-vue-react"
         tagline: "A to do list app to organise important tasks for work and life. Built with both React and Vue."
 
+# publications:
+#     title: Experiences
+#     # intro: |
+#     #   You can list your publications in this section. Lorem ipsum dolor sit
+#     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     #   bibendum fringilla a eu lectus.
+#     papers:
+#       - title: Client Relationship Manager, Johns & Co, Malaysia
+#         # link: "#"
+#         authors: 2020 - Current
+#         conference: |
+#           London estate agency specialised in property management, lettings and sales in UK.
+#             - Appointed to lead and set up new office in Malaysia to strengthen international presence in Asia.
+#             - Develop a business development strategy to grow Malaysia client base by 50% to achieve annual revenue target of £200k.
+#             - Forge partnerships with property developers and local agencies to build long-term relationships with existing and new clients.
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
 publications:
-    title: Experiences
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
-    papers:
-      - title: Client Relationship Manager, Johns & Co, Malaysia
-        # link: "#"
-        authors: 2020 - Current
-        conference: |
-          London estate agency specialised in property management, lettings and sales in UK.
-            - Appointed to lead and set up new office in Malaysia to strengthen international presence in Asia.
-            - Develop a business development strategy to grow Malaysia client base by 50% to achieve annual revenue target of £200k.
-            - Forge partnerships with property developers and local agencies to build long-term relationships with existing and new clients.
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-experiences:
     - role: Client Relationship Manager
       time: 2020 - Current
       company: Johns & Co, Malaysia
