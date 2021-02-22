@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Passionate about using technology and data to solve business challenges. Achieved first place in two Westpac Hackathons. Just completed a Full Stack Development Bootcamp and currently hacking the planet in the New Relic Hackathon. More projects on Github!
+      Passionate about using technology and data to solve business challenges. Achieved first place in two Westpac Hackathons. Just completed a Full-Stack Development Bootcamp and currently hacking the planet in the New Relic Hackathon. More projects on Github!
 
 education:
     - degree: Full-Stack Development
@@ -120,7 +120,7 @@ projects:
 
       - title: My School Admin
         link: "https://github.com/LillianToh/myschooladmin-vue"
-        tagline: "Created a feature extension for a full stack app to ease administrative workload on school teachers. Built with Vue."
+        tagline: "Created a feature extension for a full-stack app to ease administrative workload on school teachers. Built with Vue."
 
       - title: Do It
         link: "https://github.com/LillianToh/todo1.0-vue-react"
