@@ -12,11 +12,12 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    github: LillianToh
     email: lillian.kimleng@gmail.com
     phone: (+61) 423 700 690
     website: medium.com/@lilliantoh
     linkedin: lillian-toh
-    github: LillianToh
+    # github: LillianToh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -113,6 +114,10 @@ projects:
       - title: Avenue
         link: "https://github.com/LillianToh/avenue"
         tagline: "A unified platform to help property managers oversee large scale developments. Built with React. API integrations include Facebook, HelloSign and Leaflet."
+
+      - title: Victress
+        link: "https://github.com/LillianToh/NewRelic"
+        tagline: "Raising awareness is important, but giving the user the change to take action takes it to the next level! 🌳 To hack the planet, Victress Malaysians is a coalition of female coders in Malaysia who conquer illegal logging and trade. Built with React."
 
       - title: My School Admin
         link: "https://github.com/LillianToh/myschooladmin-vue"
