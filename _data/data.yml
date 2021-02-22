@@ -129,14 +129,10 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: Johns & Co, Malaysia, Client Relationship Manager
-        link: "#"
+      - title: Client Relationship Manager, Johns & Co, Malaysia
+        # link: "#"
         authors: 2020 - Current
-        conference: |
-        London estate agency specialised in property management, lettings and sales in UK.
-          - Appointed to lead and set up new office in Malaysia to strengthen international presence in Asia.
-          - Develop a business development strategy to grow Malaysia client base by 50% to achieve annual revenue target of £200k.
-          Forge partnerships with property developers and local agencies to build long-term relationships with existing and new clients.
+        conference: London estate agency specialised in property management, lettings and sales in UK.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
