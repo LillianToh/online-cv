@@ -12,12 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    github: LillianToh
     email: lillian.kimleng@gmail.com
     phone: (+61) 423 700 690
     website: medium.com/@lilliantoh
     linkedin: lillian-toh
-    # github: LillianToh
+    github: LillianToh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -48,7 +47,7 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Passionate about using technology and data to solve business challenges. Achieved first place in two Westpac Hackathons. Just completed a Full Stack Development Bootcamp and utilising my new skills in the New Relic Hack the Planet contest. More projects on Github.
+      Passionate about using technology and data to solve business challenges. Achieved first place in two Westpac Hackathons. Just completed a Full Stack Development Bootcamp and currently hacking the planet in the New Relic Hackathon. More projects on Github!
 
 education:
     - degree: Full-Stack Development
@@ -117,7 +116,7 @@ projects:
 
       - title: Victress
         link: "https://github.com/LillianToh/NewRelic"
-        tagline: "Raising awareness is important, but giving the user the change to take action takes it to the next level! 🌳 To hack the planet, Victress Malaysians is a coalition of female coders in Malaysia who conquer illegal logging and trade. Built with React."
+        tagline: "Raising awareness is important, but giving the user the change to take action takes it to the next level! 🌳 To hack the planet, Victress is a coalition of female coders in Malaysia who conquer illegal logging and trade. Built with React."
 
       - title: My School Admin
         link: "https://github.com/LillianToh/myschooladmin-vue"
